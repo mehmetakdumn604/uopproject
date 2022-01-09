@@ -2,21 +2,21 @@
   {
     "name": "name1",
     "desc": "Lunch",
-    "image": "https://www.w3schools.com/images/w3schools_green.jpg"
+    "image": "c1"
   },
   {
     "name": "name2",
     "desc": "Lunch2",
-    "image": "https://www.w3schools.com/images/w3schools_green.jpg"
+    "image": "c2"
   },
   {
     "name": "name3",
     "desc": "Lunch3",
-    "image":"https://www.seekpng.com/png/detail/90-904704_south-park-characters-png.png"
+    "image":"c3"
   },
   {
     "name": "name4",
     "desc": "Lunch4",
-    "image": "https://www.seekpng.com/png/detail/90-904704_south-park-characters-png.png"
+    "image": "c4"
   }
 ]
